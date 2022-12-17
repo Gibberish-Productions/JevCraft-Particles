@@ -13,11 +13,17 @@ Reload the world
 JevCraft Particles adds the following particles
 
 poof
+
 flame
+
 happy villager
+
 angry villager
+
 hearts
+
 ash
+
 
 If you want to try any of these particles, try to following command:
 
