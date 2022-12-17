@@ -2,7 +2,7 @@
 ## About
 A datapack that adds particles
 
-Made with a love by Jevalent
+Made with love by Jevalent
 
 ## Install
 Drag the datapack folder into YOUR WORLD FOLDER/datapacks
